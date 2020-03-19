@@ -1,0 +1,16 @@
+body {
+  font-family: verdana;
+}
+.b-contoh {
+  background-color: #f1f1f1;
+  padding: 24px;
+}
+.b-contoh h3 {
+  margin-top: 0;
+}
+.b-kode {
+  border-left: 4px solid #4CAF50;
+  background-color: white;
+  padding: 16px;
+  font-family: consolas;
+}
